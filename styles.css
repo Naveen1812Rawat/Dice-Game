@@ -10,6 +10,20 @@
 
 }
 
+.butn{
+  margin-top: 2%; 
+  margin-left: 47%;
+  width: 100px; 
+  height: 40px; 
+  border-radius: 10px; 
+  font-size: 20px;
+  font-family: 'Lobster', cursive;
+}
+
+.butn:hover{
+  background-color: #4ECCA3;
+}
+
 body {
   background-color: #393E46;
 }
